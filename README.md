@@ -11,7 +11,7 @@ https://status.thuhole.com/
 - An experimental frontend: https://github.com/thuhole/webhole-next
 
 ### PGP public key of thuhole
-please see 
+You’ll find the PGP public key in
 
 https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xc4dd07d13d93e32a5cc8eed5c09ae3d90e1cd240
 
