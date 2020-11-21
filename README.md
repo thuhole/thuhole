@@ -1,9 +1,10 @@
 ### Projects
-- thuhole.com [backend](https://github.com/thuhole/thuhole-go-backend)
-- thuhole.com [frontend](https://github.com/thuhole/webhole)
-- [An experimental frontend](https://github.com/thuhole/webhole-next)
+- thuhole.com backend: https://github.com/thuhole/thuhole-go-backend
+- thuhole.com frontend: https://github.com/thuhole/webhole
+- An experimental frontend: https://github.com/thuhole/webhole-next
 
-
+### Status page for thuhole.com(experimental)
+https://status.thuhole.com/
 
 ### PGP public key of thuhole
 please see 
