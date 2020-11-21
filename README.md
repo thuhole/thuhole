@@ -1,16 +1,50 @@
-### Hi there 👋
+### Projects
+- thuhole.com [backend](https://github.com/thuhole/thuhole-go-backend)
+- thuhole.com [frontend](https://github.com/thuhole/webhole)
+- [An experimental frontend](https://github.com/thuhole/webhole-next)
 
-<!--
-**thuhole/thuhole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### PGP public key of thuhole
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+xAPtFqIA6Q==
+=UU38
+-----END PGP PUBLIC KEY BLOCK-----
+```
