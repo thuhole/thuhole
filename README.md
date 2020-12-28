@@ -12,7 +12,7 @@ https://status.thuhole.com/
 
 ### Contact Us
 
-Email: thuhole at protonmail dot com
+Email: contact at thuhole dot com
 
 ### PGP Public Key of thuhole
 You’ll find the PGP public key in
